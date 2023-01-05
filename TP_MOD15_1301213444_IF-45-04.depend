@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672598937 source:c:\users\rizal\onedrive\dokumen\c-program\tp_mod15_1301213444_if-45-04\main.cpp
+	"tree.h"
+
+1672598438 c:\users\rizal\onedrive\dokumen\c-program\tp_mod15_1301213444_if-45-04\tree.h
+	<iostream>
+
+1672599050 source:c:\users\rizal\onedrive\dokumen\c-program\tp_mod15_1301213444_if-45-04\tree.cpp
+	"TREE.h"
+
