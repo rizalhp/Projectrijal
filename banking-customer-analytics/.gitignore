@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+*.pyc
+*.sqlite
+
+data/raw/*.csv
+data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/sample/*.csv
+
+models/*
+!models/.gitkeep
