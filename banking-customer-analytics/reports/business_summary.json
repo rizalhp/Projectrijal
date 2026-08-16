@@ -1,0 +1,12 @@
+{
+  "snapshot_date": "2025-06-30",
+  "prediction_horizon": "6 months",
+  "active_customers": 7266,
+  "observed_churn_rate_6m_pct": 6.22,
+  "annualized_fee_revenue_idr": 5555976000,
+  "observed_revenue_at_risk_idr": 319360000,
+  "highest_churn_segment": "SME",
+  "highest_churn_segment_rate_pct": 7.04,
+  "highest_revenue_risk_segment": "Mass",
+  "model": {"roc_auc": 0.7238,"precision_at_0_5": 0.1202,"recall_at_0_5": 0.6903,"f1_at_0_5": 0.2047,"test_rows": 1817,"test_churn_rate": 0.0622,"top_decile_churn_capture": 0.3429,"top_decile_lift": 3.43}
+}
